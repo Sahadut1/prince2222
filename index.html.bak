@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+
+     <link rel="stylesheet" href="style.css">
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+
+
+</head>
+<body>
+      
+  <header>
+    <nav>
+	    <div class="logo"><h1 class="animated infinite heartBeat">PRINCE </div>  
+		<div>  <font color="RED"></b><h1> <marquee>WELCOME TO MY WEBSITE </marquee> <h1></b> </font> </div>
+	    <div class="menu">
+		     <a href="">HOME</a>
+			 <a href="https://web.facebook.com/mdsahadut.hosan.14/">FACEBOOK</a>
+			 <a href="https://web.facebook.com/Pubg-bc-Sell-100-112151097952109">PAGE</a>
+			 <a href="01705669719">PHONE</a>
+			    <font color="yellow">   <p> <a href="http//mdsahaduthosan733@gmail.com">Send email</a></p> </font>
+			
+		<div>
+		</nav>
+		
+        <main>
+		      <section>
+			    
+			  
+			 <b> <font color="black"> Description:
+Calendula officinalis. Noted for its doubled double row of flower petals, Indian Prince Calendula has a bright golden colour on its surface. The bottom of each petal is a darker orange, so it takes on a unique two-tone effect viewed from the side. The petals are edible, with quite a mild flavour, so they add visual pop to recipes without effecting the overall taste. This unusual annual reaches a height of 60cm (24"), and blooms from early summer right into late August if spent flowers are removed. Try it in containers or any flower bed in full sun to partial shade. It looks grand in mass plantings. In the right setting, this plant may self-sow and return again the following year.  </font>  </b>
+			  
+			  
+			  
+			  
+			  
+			  
+			              <font color="black">  <h2> Md Sahadut Hosan</h2>  <font>
+			          <h1> Md Sahadut Hosan <span class="change_content"> </span>     </h1>
+					      <font color="black">  <h2>  Ind PriNcE </h2>  </font>
+					  <a href="Description:
+Calendula officinalis. Noted for its doubled double row of flower petals, Indian Prince Calendula has a bright golden colour on its surface. The bottom of each petal is a darker orange, so it takes on a unique two-tone effect viewed from the side. The petals are edible, with quite a mild flavour, so they add visual pop to recipes without effecting the overall taste. This unusual annual reaches a height of 60cm (24"), and blooms from early summer right into late August if spent flowers are removed. Try it in containers or any flower bed in full sun to partial shade. It looks grand in mass plantings. In the right setting, this plant may self-sow and return again the following year." class="btnone"> Loarn More</a>					 
+					    <a href="#" class="*{
+						
+						}btntwo"  ><a href="https://web.facebook.com/mdsahadut.hosan.14/"> CONTACK ME</a>
+			  </section>
+		
+
+		</main>		
+	
+   
+   </header>
+</body>
+</html>
